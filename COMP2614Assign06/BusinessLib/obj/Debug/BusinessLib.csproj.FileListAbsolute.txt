@@ -1,0 +1,6 @@
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.dll
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\bin\Debug\BusinessLib.pdb
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.csprojAssemblyReference.cache
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.csproj.CoreCompileInputs.cache
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.dll
+C:\Users\KBJ\Documents\MVS\COMP2614Assign06\BusinessLib\obj\Debug\BusinessLib.pdb
